@@ -3,6 +3,7 @@
 //= require jquery-ui/widget
 //= require jquery-ui/widgets/mouse
 //= require jquery-ui/widgets/draggable
+//= require jquery-ui/widgets/droppable
 //= require jquery-ui/widgets/resizable
 //= require gridstack/gridstack
 //= require gridstack/gridstack.jQueryUI
